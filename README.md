@@ -1,5 +1,5 @@
 # About
-This repo is about the advanced analysis of TEDxTalks data.
+This repo is about the exploratory analysis of TEDxTalks data.
 
 # Conda environment with environment.yml
 
