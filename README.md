@@ -3,13 +3,13 @@ This repo is about the exploratory analysis of TEDxTalks data.
  
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/mrnevil-tedxtalks-analysis-65frhk1n/notebooks/index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://hub.gke2.mybinder.org/user/mrnevil-tedxtalks-analysis-65frhk1n/notebooks/index.ipynb
+https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
