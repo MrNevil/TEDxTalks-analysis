@@ -1,6 +1,6 @@
 # About
 This repo is about the exploratory analysis of TEDxTalks data.
- 
+  
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb)
