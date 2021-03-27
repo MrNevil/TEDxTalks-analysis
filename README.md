@@ -1,7 +1,7 @@
 # About
 This repo is about the exploratory analysis of TEDxTalks data.
 
-# Conda environment with environment.yml
+<!--- # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb)
 
@@ -10,7 +10,7 @@ A Binder-compatible repo with an `environment.yml` file.
 Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb
-
+--->
 
 ## Jupyter Notebook
 
