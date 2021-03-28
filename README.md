@@ -19,7 +19,7 @@ The tutorial code is available as a [Jupyter notebook](tutorial.ipynb). You can 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb)
 
 ## What is the project about?
-
+ 
 The pandas library is a powerful tool for multiple phases of the data science workflow, including data cleaning, visualization, and exploratory data analysis. However, the size and complexity of the pandas library makes it challenging to discover the best way to accomplish any given task.
 
 In this tutorial, you'll use pandas to answer questions about a real-world dataset. Through each exercise, you'll learn important data science skills as well as "best practices" for using pandas. By the end of the tutorial, you'll be more fluent at using pandas to correctly and efficiently answer your own data science questions.
