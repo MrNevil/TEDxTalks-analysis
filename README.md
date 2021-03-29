@@ -1,6 +1,6 @@
-# About
+# About 
 This repo is about the exploratory analysis of TEDxTalks data.
-
+ 
 <!--- # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrNevil/TEDxTalks-analysis/0e9ce01c0d4826262094e4fc3f42d38ca9e7a060?filepath=index.ipynb)
@@ -49,7 +49,7 @@ Here are three options that will work equally well:
 2. Open the Python environment of your choice.
 3. If you're using the **Jupyter notebook**, run the following code:
 
-    ```python
+    ```python 
     import pandas as pd
 	import matplotlib.pyplot as plt
 	%matplotlib inline
@@ -59,12 +59,13 @@ Here are three options that will work equally well:
 
 4. If you're using **any other Python environment**, run the following code:
 
-    ```python
+    ```python 
     import pandas as pd
 	import matplotlib.pyplot as plt
 	ted = pd.read_csv('ted.csv')
 	ted.comments.plot()
 	plt.show()
 	```
-
+ 
 If you don't get any error messages, and a plot appears on your screen, then it's very likely that pandas and matplotlib are installed correctly.
+ 
