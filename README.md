@@ -24,7 +24,6 @@ The pandas library is a powerful tool for multiple phases of the data science wo
 
 In this tutorial, you'll use pandas to answer questions about a real-world dataset. Through each exercise, you'll learn important data science skills as well as "best practices" for using pandas. By the end of the tutorial, you'll be more fluent at using pandas to correctly and efficiently answer your own data science questions.
 
-
 ## What dataset are we using?
 
 `ted.csv` is the [TED Talks dataset](https://www.kaggle.com/rounakbanik/ted-talks) from Kaggle Datasets, made available under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
