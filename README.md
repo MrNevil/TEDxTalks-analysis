@@ -68,4 +68,3 @@ Here are three options that will work equally well:
 	```
  
 If you don't get any error messages, and a plot appears on your screen, then it's very likely that pandas and matplotlib are installed correctly.
- 
